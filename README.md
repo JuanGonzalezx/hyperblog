@@ -9,5 +9,6 @@ Reporsitorio pa git de [curso de Git y Github](https://platzi.com/cursos/git-git
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por Juan
 
 PD: **Este readme.md es un chiste**.  Diseñado para el ejemplo.
