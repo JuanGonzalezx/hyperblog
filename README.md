@@ -10,5 +10,7 @@ Reporsitorio pa git de [curso de Git y Github](https://platzi.com/cursos/git-git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por Juan
+* Incluye ejemplo en linux
+* Disponible xd
 
 PD: **Este readme.md es un chiste**.  Diseñado para el ejemplo.
